@@ -3,7 +3,7 @@
 
 Ques1 -> Coded in python with Selenium
 
-Ques2 -> Coded in python in two parts
+Ques2 -> Coded in python in two parts and there screenshots for output
 
 
 Prerequisite:
